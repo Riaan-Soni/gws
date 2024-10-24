@@ -1,0 +1,17 @@
+body {
+    font-family: "Lobster", sans-serif;
+    text-align: center;
+    background-color: aquamarine;
+  }
+  
+  .game-time {
+    margin-bottom: 20px;
+  }
+  
+  .virtual-gift {
+    cursor: pointer;
+  }
+  
+  #messages {
+    margin-top: 20px;
+  }
