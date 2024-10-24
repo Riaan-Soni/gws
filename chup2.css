@@ -1,3 +1,12 @@
+@media only screen and (max-width: 600px) {
+  /* Styles for devices with a maximum width of 600 pixels */
+  body {
+    font-size: 16px;
+  }
+  .container {
+    width: 90%;
+  }
+}
 body {
     font-family: "Lobster", sans-serif;
     text-align: center;
